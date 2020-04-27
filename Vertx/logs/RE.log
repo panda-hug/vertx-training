@@ -1,0 +1,31 @@
+19:56:16.430 [vert.x-eventloop-thread-1] INFO  rest.Handlers - Soldiers list returned.
+
+19:56:38.796 [vert.x-eventloop-thread-1] INFO  rest.Handlers - Soldier found.
+
+19:56:56.086 [vert.x-eventloop-thread-1] INFO  rest.Handlers - Soldier removed.
+
+19:56:56.087 [vert.x-eventloop-thread-1] INFO  rest.Handlers - Soldiers list returned.
+
+14:10:37.474 [vert.x-eventloop-thread-1] INFO  rest.MyServer - SERVER_LISTENING 8080
+14:10:38.868 [vert.x-eventloop-thread-1] INFO  rest.Handlers - SOLDIER_NOT_FOUND
+14:10:43.339 [vert.x-eventloop-thread-1] INFO  rest.Handlers - SOLDIER_NOT_FOUND
+14:11:33.451 [vert.x-eventloop-thread-1] INFO  rest.Handlers - SOLDIERS_LIST
+14:12:38.459 [vert.x-eventloop-thread-1] INFO  rest.Handlers - SOLDIER_ADDED
+14:13:06.673 [vert.x-eventloop-thread-1] INFO  rest.Handlers - SOLDIER_NOT_FOUND
+14:13:12.337 [vert.x-eventloop-thread-1] INFO  rest.Handlers - SOLDIER_REMOVED
+14:13:15.115 [vert.x-eventloop-thread-1] INFO  rest.Handlers - SOLDIER_NOT_FOUND
+14:13:15.777 [vert.x-eventloop-thread-1] INFO  rest.Handlers - SOLDIER_NOT_FOUND
+14:13:15.919 [vert.x-eventloop-thread-1] INFO  rest.Handlers - SOLDIER_NOT_FOUND
+14:15:00.001 [vert.x-eventloop-thread-1] INFO  rest.Handlers - SOLDIER_ADDED
+14:15:02.896 [vert.x-eventloop-thread-1] INFO  rest.Handlers - SOLDIER_EXIST
+14:15:51.447 [vert.x-eventloop-thread-1] INFO  rest.Handlers - SOLDIER_EXIST
+14:16:12.632 [vert.x-eventloop-thread-1] INFO  rest.Handlers - SOLDIER_UPDATED
+14:25:49.788 [vert.x-eventloop-thread-1] INFO  rest.MyServer - SERVER_LISTENING 8080
+14:26:06.816 [vert.x-eventloop-thread-1] INFO  rest.Handlers - SOLDIER_UPDATED
+14:26:18.882 [vert.x-eventloop-thread-1] INFO  rest.Handlers - SOLDIER_EXIST
+14:26:26.630 [vert.x-eventloop-thread-1] INFO  rest.Handlers - SOLDIER_ADDED
+14:26:47.897 [vert.x-eventloop-thread-1] INFO  rest.Handlers - SOLDIERS_LIST
+14:32:43.811 [vert.x-eventloop-thread-1] INFO  rest.MyServer - Server listening on port 8080
+15:21:23.517 [vert.x-eventloop-thread-1] INFO  rest.MyServer - Server listening on port 8080
+15:21:23.520 [vert.x-eventloop-thread-1] INFO  rest.MyServer - Yael
+15:21:39.964 [vert.x-eventloop-thread-1] INFO  rest.Handlers - SOLDIERS_LIST
